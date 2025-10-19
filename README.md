@@ -8,7 +8,7 @@
 
   <h4>Recent Projects</h4>
   <ul>
-    <li>🧾 <strong>Personal Finance App:</strong> AI-assisted expense tracking with Read, Go, and PostgreSQL</li>
+    <li>🧾 <strong>Personal Finance App:</strong> AI-assisted expense tracking with React, Go, and PostgreSQL</li>
     <li>💬 <strong>Incident Management Platform:</strong> Real-time chat, payments, and dashboards for internal operations.</li>
   </ul>
 
