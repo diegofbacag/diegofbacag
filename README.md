@@ -6,16 +6,16 @@
 
   <p>💡 I care about turning real-world problems into simple, usable software.</p>
 
-  <h3>Recent Projects</h3>
+  <h4>Recent Projects</h4>
   <ul>
     <li>🧾 <strong>Personal Finance App:</strong> AI-assisted expense tracking with NestJS, PostgreSQL, and React.</li>
     <li>💬 <strong>Incident Management Platform:</strong> Real-time chat, payments, and dashboards for internal operations.</li>
   </ul>
 
-  <h3>Tech Stack</h3>
+  <h4>Tech Stack</h4>
   <p><code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>AWS</code></p>
 
-  <h3>✉️ Get in Touch</h3>
+  <h4>✉️ Get in Touch</h4>
   <p>
     📫 <a href="mailto:diegofbacag@outlook.com">diegofbacag@outlook.com</a><br>
   </p>
