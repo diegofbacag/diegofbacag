@@ -15,9 +15,4 @@
   <h4>Tech Stack</h4>
   <p><code>TypeScript</code> · <code>React</code> · <code>Go</code> · <code>Next.js</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>AWS</code></p>
 
-  <h4>Get in Touch</h4>
-  <p>
-    ✉️ <a href="mailto:diegofbacag@outlook.com">diegofbacag@outlook.com</a><br>
-  </p>
-
 </div>
